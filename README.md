@@ -11,13 +11,14 @@ The dataset was a modified version of HAM10000 Dataset, with 10,017 images of le
 There were 7 classes:
 Cases include a representative collection of all important diagnostic categories in the realm of pigmented lesions:
 
-Actinic keratoses and intraepithelial carcinoma / Bowen's disease ( **AKIEC** ),
-basal cell carcinoma ( **BCC** ),
-benign keratosis-like lesions (solar lentigines / seborrheic keratoses and lichen-planus like keratoses, **BKL** ),
-dermatofibroma ( **DF** ),
-melanoma ( **MEL** ),
-melanocytic nevi ( **NV** )
-vascular lesions (angiomas, angiokeratomas, pyogenic granulomas and hemorrhage, **VASC** )
+1. Actinic keratoses and intraepithelial carcinoma / Bowen's disease ( **AKIEC** )
+2. basal cell carcinoma ( **BCC** )
+3. benign keratosis-like lesions (solar lentigines / seborrheic keratoses and lichen-planus like keratoses, **BKL** )
+4. dermatofibroma ( **DF** )
+5. melanoma ( **MEL** ),
+6. melanocytic nevi ( **NV** )
+7. vascular lesions (angiomas, angiokeratomas, pyogenic granulomas and hemorrhage, **VASC** )
+
 
 ## Model Parameters
 Swin Transformer - 147K
